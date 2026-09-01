@@ -1,12 +1,17 @@
 ## Screenshots
 
+### 1. 
 
-![Food Order Form](screenshot1.png)
+![Food Order Form](cess4.jfif)
 
-### 2. Program Output
+### 2. 
 
-![Program Output](screenshot2.png)
+![Program Output](cess3.jfif)
 
-### 3. GET Request in URL
+### 3. 
 
-![GET Request](screenshot3.png)
+![GET Request](cess2.jfif)
+
+### 4. 
+
+![GET Request](cess1.jfif)
